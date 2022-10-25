@@ -20,12 +20,4 @@ form input {
 	margin-bottom: 0.5rem;
 }
 
-form input:focus {
-	outline: none;
-	border-color: #4f005f;
-}
 
-form input.invalid {
-	border-color: red;
-	background-color: #ffdddd;
-}
